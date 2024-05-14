@@ -10,8 +10,22 @@ The 3 recipes implemented are:
 * Kimchi Jjigae
 
 This project worked on the following skills:
-* Syntax
-* HTML Boilerplate
-* Images and Links
 
+## HTML
+
+* Syntax
+* Boilerplate
+* Elements and Tags
+* Lists
+* Images and Links
+* Classes
+
+## CSS
+
+* Syntax
+* Box-Model
+* Block and Inline Elements
+* Cascade
+* Normal Flow
+* Use with DevTools
 
